@@ -1,6 +1,6 @@
 # Simulación de Aparcamiento Concurrente con Semaphore
 
-## Descripción
+Descripción
 Este proyecto simula un aparcamiento con 3 plazas y 7 coches que intentan acceder simultáneamente, utilizando la clase `Semaphore` de Java para gestionar los recursos limitados (plazas de aparcamiento). El objetivo es demostrar el uso de semáforos para controlar el acceso concurrente a recursos compartidos.
 
 ## Clases
